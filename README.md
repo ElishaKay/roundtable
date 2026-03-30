@@ -28,6 +28,10 @@ Stop copy-pasting between AI models. Roundtable AI is a local MCP server that le
 - [Contributing](#contributing)
 - [License](#license)
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/askbudi-roundtable).
+
 ## Quick Start
 
 ```bash
